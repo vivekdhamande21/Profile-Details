@@ -1,2 +1,2 @@
-# Profile-Detais
+# Profile-Details
 Profile Details page 
